@@ -1,0 +1,1 @@
+git clone https://github.com/uoguelph-mlrg/Theano-MPI.git -b pygpu --single-branch .
