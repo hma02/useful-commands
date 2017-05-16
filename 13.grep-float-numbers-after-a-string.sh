@@ -1,0 +1,1 @@
+grep -oP ‘(?<=get the float after this string:)[0-9]+\.[0-9]+’ in_this_file.txt
